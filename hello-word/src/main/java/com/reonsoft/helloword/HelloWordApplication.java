@@ -10,6 +10,6 @@ public class HelloWordApplication {
 		SpringApplication.run(HelloWordApplication.class, args);
 	}
 	
-	// 마스터 주석
+	// 마스터 주석 2222
 
 }
