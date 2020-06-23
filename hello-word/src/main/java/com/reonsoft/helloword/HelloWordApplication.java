@@ -10,6 +10,6 @@ public class HelloWordApplication {
 		SpringApplication.run(HelloWordApplication.class, args);
 	}
 	
-	
+	// 주석
 
 }
