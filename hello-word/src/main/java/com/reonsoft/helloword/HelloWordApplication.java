@@ -10,6 +10,7 @@ public class HelloWordApplication {
 		SpringApplication.run(HelloWordApplication.class, args);
 	}
 	
+	// 서브 브랜치 충돌 시험
 	
 
 }
